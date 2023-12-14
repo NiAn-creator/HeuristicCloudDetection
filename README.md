@@ -13,10 +13,6 @@ Extensive experiments on the GF-1, Landsat-8, and WDCD datasets demonstrate that
 
 
 
-I will publish the whole source code after paper acception. If any question, please concat with us (email: yliucit@bjtu.edu.cn).
-
-
-
 ## Dataset
 GF-1 Cloud and Cloud Shadow Cover Validation Data: [link](URL "http://sendimage.whu.edu.cn/en/mfc-validation-data")
 
