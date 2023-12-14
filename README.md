@@ -37,4 +37,16 @@ Then all patches are spliced to their original size by bac2src_output.py for eva
 ![abl_vis.png](./demo_graph/abl_vis.png)
 <p align="center">Qualitative results of the GF-1 dataset images.</p>
 
+
+## Cites
+@ARTICLE{10180080,
+  author={Liu, Yang and Li, Qingyong and Li, Xiaobao and He, Shuyi and Liang, Fengjiao and Yao, Zhigang and Jiang, Jun and Wang, Wen},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Leveraging Physical Rules for Weakly Supervised Cloud Detection in Remote Sensing Images}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-18},
+  doi={10.1109/TGRS.2023.3294817}}
+
 # HeuristicCloudDetectionNetwork
