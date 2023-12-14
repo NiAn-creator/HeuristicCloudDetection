@@ -39,6 +39,7 @@ Then all patches are spliced to their original size by bac2src_output.py for eva
 
 
 ## Cites
+‘’‘
 @ARTICLE{10180080,
   author={Liu, Yang and Li, Qingyong and Li, Xiaobao and He, Shuyi and Liang, Fengjiao and Yao, Zhigang and Jiang, Jun and Wang, Wen},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -48,5 +49,4 @@ Then all patches are spliced to their original size by bac2src_output.py for eva
   number={},
   pages={1-18},
   doi={10.1109/TGRS.2023.3294817}}
-
-# HeuristicCloudDetectionNetwork
+  ’‘’
